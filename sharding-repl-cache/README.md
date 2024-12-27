@@ -1,6 +1,9 @@
 # pymongo-api
 
-## 0. Как запустить все сервисы (pymongo-api, configSrv, redis, shard1-1, shard1-2, shard-2, router)
+## Ссылка на схемы
+https://drive.google.com/file/d/1AvOzK1408ehPQKu5CRyDLLrcQVAVnyV6/view?usp=sharing
+
+## 0. Как запустить все сервисы (pymongo-api, configSrv, redis, shard1, shard2, shard3, router)
 
 Запускаем mongodb и приложение
 
